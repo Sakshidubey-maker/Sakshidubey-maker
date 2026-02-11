@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## Hi 👋 I'm Sakshi Dubey
 
-- 🎓 BTech IT @ ABIT
+- 🎓 BTech IT'28 @BIT
 - 💡 Aspiring Software Engineer
 - 🤖 AI/ML & Full-Stack Enthusiast
 - 🛠️ Learning by building projects
