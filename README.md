@@ -10,7 +10,7 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,git,github,vscode" />
 </p>
 
 ---
@@ -26,7 +26,10 @@
 
 ## 💻 Top Languages
 
+## 💻 Top Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshidubey-maker&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshidubey-maker&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" />
 </p>
+
 
