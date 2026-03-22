@@ -2,8 +2,9 @@
 
 🎓 BTech IT'28 Student  
 💡 Aspiring Software Engineer  
-🤖 AI/ML & Full-Stack Enthusiast  
-🚀 Hackathon Finalist | Learning by Doing  
+🤖 AI/ML & Full-Stack Enthusiast 
+🚀1x Hackathon Winner 
+🚀2x Hackathon Finalist | Learning by Doing  
 
 ---
 
